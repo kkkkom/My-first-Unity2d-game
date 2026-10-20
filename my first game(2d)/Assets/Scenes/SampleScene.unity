@@ -4438,9 +4438,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bef4464c5c3ac2341942e02c0f8b3515, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::camera
-  player3: {fileID: 1853556459}
-  smoothspeed: 5
-  xposition: {x: 6, y: 1.2, z: -10}
 --- !u!1 &529302356
 GameObject:
   m_ObjectHideFlags: 0
@@ -9998,6 +9995,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1801442045}
     m_Modifications:
     - target: {fileID: 2327175726639709224, guid: e6712a6d77df7f441acdf8217c35bab5, type: 3}
+      propertyPath: player3
+      value: 
+      objectReference: {fileID: 1853556459}
+    - target: {fileID: 5419668354975844385, guid: e6712a6d77df7f441acdf8217c35bab5, type: 3}
       propertyPath: player3
       value: 
       objectReference: {fileID: 1853556459}
