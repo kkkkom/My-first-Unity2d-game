@@ -10,8 +10,9 @@
 > 一款基于 Unity 引擎独立开发的 2D 横版动作冒险游戏。包含完整的游戏循环、战斗系统与 Boss 战。
 
 \## 📸 游戏截图 
+
 <img width="848" height="527" alt="屏幕截图 2026-10-20 175316" src="https://github.com/user-attachments/assets/c68d002c-abf5-4c64-a141-1ae008e8497a" />
-<img width="848" height="527" alt="屏幕截图 2026-10-20 175316" src="https://github.com/user-attachments/assets/c68d002c-abf5-4c64-a141-1ae008e8497a" />
+<img width="841" height="530" alt="屏幕截图 2026-10-20 175511" src="https://github.com/user-attachments/assets/359c70ad-6a73-4985-a70d-65733cea2355" />
 <img width="1253" height="794" alt="屏幕截图 2026-10-20 175647" src="https://github.com/user-attachments/assets/fde9409a-3971-4449-b893-a99fdcdadb52" />
 <img width="1255" height="794" alt="屏幕截图 2026-10-20 175700" src="https://github.com/user-attachments/assets/1cf64c9f-b95e-4477-a455-81e10fd314ca" />
 
